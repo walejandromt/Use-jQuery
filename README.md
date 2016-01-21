@@ -1,5 +1,4 @@
-# Curso de HTML: maquetación semántica de una página en HTML 5
--HTML 5 
--CSS3 
--JavaScript.
-![Alt text](http://full/path/to/img.jpg "Optional title")
+# Use jQuery
+- HTML 5 
+-- jQuery
+![Alt text](https://github.com/walejandromt/Use-jQuery/blob/master/img.png "Optional title")
